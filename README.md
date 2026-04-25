@@ -1,4 +1,4 @@
-# 288R Group Project - Predicting Employee Burnout Using Machine Learning
+# 288R Capstone Project - Predicting Employee Burnout Using Machine Learning
 
 ## Dataset
 
