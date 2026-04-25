@@ -6,7 +6,7 @@
 
 ## Project Goal
 
-The goal of this project is to predict employee burnout using supervised and unsupervised machine learning methods. Employee burnout is an important workplace issue because it affects productivity, job satisfaction, employee well-being, and retention.
+The goal of this project is to predict employee burnout using supervised and unsupervised machine learning methods. Employee burnout is an important workplace issue because it affects productivity, job satisfaction, employee well being, and retention.
 
 Our project uses structured workplace data to predict employee burn rate as a continuous outcome and to better understand the factors most associated with burnout risk.
 
@@ -21,7 +21,7 @@ This project combines:
 - Supervised machine learning
 - Unsupervised clustering analysis
 
-The main target variable is **Burn Rate**. Key features include mental fatigue score, resource allocation, designation level, work-from-home availability, company type, gender, and employee tenure.
+The main target variable is **Burn Rate**. Key features include mental fatigue score, resource allocation, designation level, work from home availability, company type, gender, and employee tenure.
 
 ## Data Pipeline
 
@@ -46,7 +46,7 @@ Our EDA focuses on understanding relationships between workplace features and bu
 - Correlation analysis
 - Grouped burnout comparisons
 
-Initial findings suggest that mental fatigue score, resource allocation, designation level, and work-from-home availability are important factors related to burnout.
+Initial findings suggest that mental fatigue score, resource allocation, designation level, and work from home availability are important factors related to burnout.
 
 ## Feature Engineering
 
@@ -56,7 +56,7 @@ Several engineered features were created to improve model performance and interp
 - High Burnout indicator
 - Burnout Risk Factor
 - Seniority Level
-- Workload-Fatigue Interaction
+- Workload Fatigue Interaction
 - Fatigue Ratio
 - Stress Index
 - High Fatigue Indicator
@@ -90,7 +90,7 @@ So far, our team has:
 - Built a preprocessing pipeline
 - Created engineered features
 - Performed EDA
-- Identified key burnout-related patterns
+- Identified key burnout related patterns
 - Built an initial Random Forest baseline model
 - Applied K-Means clustering to analyze stress index and burn rate groups
 
